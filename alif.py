@@ -22,17 +22,17 @@ requests.packages.urllib3.disable_warnings()
 # ᴘʀɪᴍᴇʀʏ ᴅᴀɴ ɢᴍᴀɪʟ
 #=====================================
 # ᴀᴋᴜɴ ᴜᴛᴀᴍᴀ
-cl = LINE("EP72ChTag70xrhsQlrX0.pk5PrpEGJWVMcGOSZIplCa.WTimRbPpo6XJ0R9IbNj4cQjneZY52iU0tJ7BNIAY2Xk=")
+cl = LINE("muzaronidulamah@gmail.com","polytron11")
 cl.log("Auth Token : " + str(cl.authToken))
 cl.log("Timeline Token : " + str(cl.tl.channelAccessToken))
 print ("╔══════════════════\n╠ ʟᴏɢɪɴ sᴜᴄᴄᴇs\n╚══════════════════")
 #======================================================
 oepoll = OEPoll(cl)
 call = cl
-creator = ["u3cae6944f7a08f0be60a0a2cce23cb70"]
-owner = ["u3cae6944f7a08f0be60a0a2cce23cb70"]
-admin = ["u3cae6944f7a08f0be60a0a2cce23cb70"]
-staff = ["u3cae6944f7a08f0be60a0a2cce23cb70"]
+creator = ["ud23f132190b4c99f7f6dee4689fca49a"]
+owner = ["ud23f132190b4c99f7f6dee4689fca49a"]
+admin = ["ud23f132190b4c99f7f6dee4689fca49a"]
+staff = ["ud23f132190b4c99f7f6dee4689fca49a"]
 #==============================================================================
 lineProfile = cl.getProfile()
 mid = cl.getProfile().mid
