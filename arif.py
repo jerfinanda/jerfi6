@@ -14,7 +14,7 @@ botStart = time.time()
 msg_dict = {}
 msg_dict1 = {}
 #==============[ token 1 ]==============#
-cl = LINE("EP72ChTag70xrhsQlrX0.pk5PrpEGJWVMcGOSZIplCa.WTimRbPpo6XJ0R9IbNj4cQjneZY52iU0tJ7BNIAY2Xk=")
+cl = LINE("muzaronidulamah@gmail.com","polytron11")
 cl.log("Auth Token : " + str(cl.authToken))
 cl.log("Timeline Token : " + str(cl.tl.channelAccessToken))  
 #==============[●●●●●●]==============#
@@ -29,10 +29,10 @@ KAC = [cl]
 ABC = [cl]
 #GHOST = [sw]
 Bots = [mid]
-creator = ["u3cae6944f7a08f0be60a0a2cce23cb70"]
-owner = ["u3cae6944f7a08f0be60a0a2cce23cb70"]
-admin = ["u3cae6944f7a08f0be60a0a2cce23cb70"]
-staff = ["u3cae6944f7a08f0be60a0a2cce23cb70"]
+creator = ["ud23f132190b4c99f7f6dee4689fca49a"]
+owner = ["ud23f132190b4c99f7f6dee4689fca49a"]
+admin = ["ud23f132190b4c99f7f6dee4689fca49a"]
+staff = ["ud23f132190b4c99f7f6dee4689fca49a"]
 Drop_Xv = "u3cae6944f7a08f0be60a0a2cce23cb70" #ID_DROPING_BOTS
 Xv_WIN = "u3cae6944f7a08f0be60a0a2cce23cb70" #ID_WINDOWS_XP
 Xv_LAN = "u3cae6944f7a08f0be60a0a2cce23cb70" #ID_SERVER_LAN
